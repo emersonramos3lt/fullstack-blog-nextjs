@@ -21,7 +21,7 @@ The application is **fully responsive**, ensuring a smooth experience across all
 ---
 
 ## **📷 Screenshots**  
-![Screenshot](./screenshot/img1.PNG)
+![Screenshot](./screenshot/img1.png)
 
 ![Screenshot](./screenshot/img2.PNG)
 
