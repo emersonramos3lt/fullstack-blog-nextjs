@@ -7,7 +7,7 @@ const BlogItem = ({title, description, category, image, id}) => {
   return (
     <div className='max-w-[330px] sm:max-w-[500px] lg:max-w-[800px]'>
         <Link href={`/blogs/${id}`}>
-        <Image src={image} alt='Blog image' width={2000} height={2000} className='w-full h-[200px] sm:h-[250px] lg:h-[500px] object-cover transition-all duration-500 hover:scale-95' />
+        <Image src={image} alt='Blog image' width={2000} height={2000} className='w-full sm:w-[500px] lg:w-[800px] m-auto h-[200px] sm:h-[250px] lg:h-[500px] object-cover transition-all duration-500 hover:scale-95' />
         </Link>
         <p className='ml-5 mt-5 px-2 sm:px-4 inline-block bg-blue-200 text-blue-700 text-sm sm:text-base rounded-2xl'>{category}</p>
         <div className='p-5'>
