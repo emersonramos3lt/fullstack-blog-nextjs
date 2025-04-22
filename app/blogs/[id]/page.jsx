@@ -29,7 +29,7 @@ const page = ({ params }) => {
     }, [paramsPromise]);
 
   return (data? <>
-    <div className='bg-slate-800 py-5 px-5 md:px-12 lg:px-28 text-white'>
+    <div className='bg-zinc-900 py-5 px-5 md:px-12 lg:px-28 text-white'>
         <div className='flex justify-between items-center'>
             <Link href='/' className='text-2xl sm:text-3xl' >
                 Posts
