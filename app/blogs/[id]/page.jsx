@@ -35,7 +35,7 @@ const page = ({ params }) => {
                 Posts
             </Link>
             <button className='py-3 px-4 sm:py-4 sm:px-7 bg-blue-100 text-blue-500 rounded-full cursor-pointer font-semibold text-center transition-all duration-500 hover:bg-blue-500 hover:text-white text-base'>
-              Register Now
+              Follow me!
           </button>
         </div>
         <div className='text-center my-24'>
