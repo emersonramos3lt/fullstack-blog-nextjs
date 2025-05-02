@@ -30,7 +30,7 @@ const Header = () => {
            
             <Link href='https://github.com/emersonramos3lt' target='_blank' className='relative group'>
           <span className='absolute top-0 left-0 mt-1 ml-1 h-full w-full rounded bg-black group-hover:mt-0 group-hover:ml-0'></span>
-          <span className='font-semibold relative h-full w-full rounded-md border-2 border-black bg-white px-8 py-2 flex items-center justify-center gap-1'><Image src={assets.githubBlack} width={20} height={20} alt='Github Logo' /> GitHub</span>
+          <span className='font-semibold relative h-full w-full rounded-md border-2 border-black bg-white px-4 py-1 md:px-8 md:py-2 flex items-center justify-center gap-1'><Image src={assets.githubBlack} width={20} height={20} alt='Github Logo' /> GitHub</span>
          </Link>
 
         </div>
