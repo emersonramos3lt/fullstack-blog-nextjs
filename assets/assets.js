@@ -12,6 +12,8 @@ import upload_area from './upload_area.png'
 import instagram from './instagram.svg'
 import facebook from './facebook.svg'
 import youtube from './youtube.svg'
+import githubWhite from './github_white.svg'
+import githubBlack from './github_black.svg'
 
 export const assets = {
     facebook_icon,
@@ -27,5 +29,7 @@ export const assets = {
     upload_area,
     instagram,
     facebook,
-    youtube
+    youtube,
+    githubWhite,
+    githubBlack,
 }
